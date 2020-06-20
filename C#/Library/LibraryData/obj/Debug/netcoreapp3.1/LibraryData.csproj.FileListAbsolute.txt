@@ -1,0 +1,9 @@
+D:\Tanulás\C#\Library\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+D:\Tanulás\C#\Library\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+D:\Tanulás\C#\Library\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+D:\Tanulás\C#\Library\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+D:\Tanulás\C#\Library\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+D:\Tanulás\C#\Library\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+D:\Tanulás\C#\Library\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Tanulás\C#\Library\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+D:\Tanulás\C#\Library\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb

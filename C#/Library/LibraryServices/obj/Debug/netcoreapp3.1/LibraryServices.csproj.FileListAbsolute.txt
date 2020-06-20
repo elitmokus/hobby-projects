@@ -1,0 +1,11 @@
+D:\Tanulás\C#\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.deps.json
+D:\Tanulás\C#\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.dll
+D:\Tanulás\C#\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+D:\Tanulás\C#\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryData.dll
+D:\Tanulás\C#\Library\LibraryServices\bin\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Tanulás\C#\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csprojAssemblyReference.cache
+D:\Tanulás\C#\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfoInputs.cache
+D:\Tanulás\C#\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.AssemblyInfo.cs
+D:\Tanulás\C#\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.csproj.CopyComplete
+D:\Tanulás\C#\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.dll
+D:\Tanulás\C#\Library\LibraryServices\obj\Debug\netcoreapp3.1\LibraryServices.pdb
