@@ -1,0 +1,26 @@
+{
+  "name": "one-to-many",
+  "version": "1.0.0",
+  "description": "Nope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elitmokus/OneToManyTutorial.git"
+  },
+  "keywords": [
+    "OneToMany",
+    "Tutorial"
+  ],
+  "author": "Aron Fekete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elitmokus/OneToManyTutorial/issues"
+  },
+  "homepage": "https://github.com/elitmokus/OneToManyTutorial#readme",
+  "dependencies": {
+    "mongoose": "^5.9.3"
+  }
+}
