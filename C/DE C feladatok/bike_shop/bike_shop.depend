@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588618206 source:d:\tanulás\c programozás\de c feladatok\bike_shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

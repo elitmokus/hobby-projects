@@ -1,0 +1,5 @@
+Csepel	Budapest MTB 2004 SN0
+Csepel	Budapest MTB 2004 SN1
+Csepel	Budapest MTB 2004 SN2
+Magellan	Dunaujvaros DH 2000 SN10
+Magellan	Dunaujvaros DH 2000 SN11

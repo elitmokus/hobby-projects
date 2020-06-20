@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1583161446 source:d:\tanulás\c programozás\de c feladatok\1_feladat\prog_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
+1583146392 source:d:\tanulás\c programozás\de c feladatok\1_feladat\prog_lab\1_feladat.c
+	<stdio.h>
+	<stdlib.h>
+
+1583147297 source:d:\tanulás\c programozás\de c feladatok\1_feladat\prog_lab\2_feladat.c
+	<stdio.h>
+	<stdlib.h>
+
